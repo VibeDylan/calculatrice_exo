@@ -1,4 +1,3 @@
-# Créer une liste vide history dans le menu
 def add_to_history(calcul:str, result:float, history:list):
 	history.append({"calcul": calcul, "résultat": result})
 
