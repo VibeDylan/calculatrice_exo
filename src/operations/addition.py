@@ -1,4 +1,4 @@
-def addtion():
+def addition():
     a = input("Entrez le premier nombre : ")
     b = input("Entrez le second nombre : ")
     
