@@ -1,0 +1,1 @@
+Modification de mon fichier ReadMe, pour introduire les concepts de bases de ma calculatrice.
