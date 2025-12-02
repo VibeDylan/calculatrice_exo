@@ -9,11 +9,3 @@ def display_history(history):
 		if history[i]:
 			print(f"{history[i]["calcul"]} = {history[i]["résultat"]}")
 			i -= 1
-
-# TESTS
-# history = []
-# add_to_history("5 + 2", 7, history)
-# add_to_history("4 * 3", 12, history)
-# add_to_history("6 / 2", 3, history)
-# add_to_history("10 - 5", 5, history)
-# display_history(history)
